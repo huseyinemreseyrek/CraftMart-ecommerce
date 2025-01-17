@@ -13,8 +13,7 @@ Bu proje, kullanıcıların el yapımı ürünleri listeleyip satın alabileceğ
 1. Python 3 ve PostgreSQL kurulu olduğundan emin olun.  
 2. Sanal ortam oluşturup etkinleştirin:
    ```bash
-   python -m venv venv
-   venv\Scripts\activate  # Windows
+   git clone https://github.com/huseyinemreseyrek/CraftMart-ecommerce
 3. cd komutu ile Craft-Mart klasörü içine gitmeyi unutmayın(resim yükleme doğru çalışması için):
    ```bash
    cd Craft-Mart
